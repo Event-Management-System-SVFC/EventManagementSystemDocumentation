@@ -62,5 +62,7 @@ To develop a SYSTEM_NAME APP that will help manage the ______ with the following
 Prepared by:
 
 Bacabis, Mike Kenny Jay
+
 Noleal, Jacqueline
+
 Salangsang, Jenny Faye
