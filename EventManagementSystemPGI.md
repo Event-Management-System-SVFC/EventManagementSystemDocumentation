@@ -1,6 +1,7 @@
 # Project General Information
 
 Group Name: EMS
+
 Project Title: Event Management System
 
 ## A. Problem Statement:
