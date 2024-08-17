@@ -57,6 +57,7 @@ To develop a SYSTEM_NAME APP that will help manage the ______ with the following
   1. ex. Shopee
 
 ## G. Estimated Project Duration:
+    4 - 6 Months
 
 
 ### Prepared by:
