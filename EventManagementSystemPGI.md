@@ -1,7 +1,7 @@
 # Project General Information
 
-Group Name: GROUP NAME
-Project Title: SYSTEM NAME
+Group Name: EMS
+Project Title: Event Management System
 
 ## A. Problem Statement:
 
