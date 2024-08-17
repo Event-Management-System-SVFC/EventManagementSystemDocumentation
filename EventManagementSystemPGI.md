@@ -54,7 +54,7 @@ To develop a SYSTEM_NAME APP that will help manage the ______ with the following
       • User Acceptance Testing
 
 ## F. Benchmarking
-  1. ex. Shopee
+  1. https://www.planningpod.com/
 
 ## G. Estimated Project Duration:
     4 - 6 Months
