@@ -1,6 +1,6 @@
 # Project General Information
 
-Group Name: EMS
+Group Name: EMS team
 
 Project Title: Event Management System
 
@@ -12,19 +12,19 @@ Project Title: Event Management System
 
 ## C. Project Objectives:
 
-To develop a SYSTEM_NAME APP that will help manage the ______ with the following features:
-1.
-2.
-3.
-4.
+To develop a Event management system that will help manage the ______ with the following features:
+1. Through EMS the user can save more time planning events and it more accesible by doing it digitalize.            
+2. Including the payment methods that can accept online payments in our EMS features 
+3. Agenda scheduling will be the top priority of our key features that handle locations, time , update schedule and create personalized schedule based on their wants.
+4. Registration and login form to create and manage multiple events.
+5. Venue and resource management that can check the venue booking for different events including the seating arrangement and staff allocation. 
 ..
 
 
 ## D. Business Benefits:
-1. 
-2. 
+1.    
+2.
 3. 
-4. 
 ..
 
 ## E. Project Deliverables:
