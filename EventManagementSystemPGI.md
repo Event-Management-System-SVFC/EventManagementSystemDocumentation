@@ -22,9 +22,11 @@ To develop a Event management system that will help manage the ______ with the f
 
 
 ## D. Business Benefits:
-1.    
-2.
-3. 
+1.    Increased Accessibility through Digitalization
+2.    Time Savings in Event Planning
+3.    Online Payment Integration
+4.    Real-Time Communication and Updates
+5.    Improved Attendee Experience
 ..
 
 ## E. Project Deliverables:
