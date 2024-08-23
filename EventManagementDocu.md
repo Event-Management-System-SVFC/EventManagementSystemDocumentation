@@ -19,7 +19,7 @@ The Event Management System will enable event organizers to create and manage mu
 
 ## E. Functional Requirements
 
-#User Requirements
+### User Requirements
 
 | No. | Users      | System Features                                          | Requirement                                                                                                                                                |
 |-----|------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -51,7 +51,7 @@ The Event Management System will enable event organizers to create and manage mu
 |     |            |                                                          |    c. Event Attendees                                                                                                                                      |
 
 
-#Use Case
+### Use Case
 
 ![USE CASE](https://github.com/user-attachments/assets/c98428c4-a6bc-4fab-9f78-8c69eafd2b28)
 
