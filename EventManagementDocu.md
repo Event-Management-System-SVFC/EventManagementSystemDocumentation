@@ -57,3 +57,26 @@ The Event Management System will enable event organizers to create and manage mu
 
 
 ## F. Database Architecture
+
+### Data Dictionary
+
+### Table 1: EVENT
+
+| FIELD NAME | DESCRIPTION | DATA TYPE | LENGTH | SAMPLE |
+| ------ | ------ | ------ | ------ | ------ |
+| EVENT_ID                          | Unique Identification of event                                     | String        | 255        | eqwiasdWqs123                                      |
+| EVENT_TITLE                       | Title of the event                                                 | String        | 255        | Wedding                                            |
+| EVENT_DESCRIPTION                 | Description of the event                                           | String        | 255        | The wedding of Joy and Mark                        |
+| EVENT_ADDITIONAL_INFORMATION      | Additional information specific for the event                      | String        | 255        | Dress code, Food Menu, Etc.                        |
+| EVENT_ADDRESS                     | Address where the event will be held (plain text or Google Maps link) | String        | 255        | Example City, Sampaguita St., or https://www.google.com/maps |
+| EVENT_PLANNER                     | ID of the user who planned this event                              | String        | 255        | Eqlkeqwlk123                                       |
+| EVENT_IMAGE                       | Link of the image of the event                                     | String        | 255        | https://firebase.com/image.png                     |
+| IS_EVENT_CANCELLED                | If the event is cancelled by the user                              | Boolean       |            | false                                              |
+| IS_EVENT_ENDED                    | If the event is already ended                                      | Boolean       |            | true                                               |
+| IS_EVENT_ONGOING                  | If the event is currently happening                                | Boolean       |            | false                                              |
+| EVENT_TIME_START                  | Datestamp when the event will start                                | Date          |            | 09-24-2002, 12:20                                  |
+| EVENT_TIME_END                    | Datestamp when the event will end                                  | Date          |            | 09-25-2002, 12:20                                  |
+
+### Table 2: ATTENDEES
+
+
