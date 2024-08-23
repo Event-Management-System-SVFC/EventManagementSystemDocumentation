@@ -1,6 +1,11 @@
 ## A. Introduction
 
 ## B. Project Features and Characteristics
+The proposed project Event management system consists of the following features:
+1. Payment methods for client and users.
+2.  Agenda scheduling for locations, event planning, update schedule and customization.
+3.  User registration and login.
+4.  VRC Management for arrangement of bookings.
 
 ## C. Project Scope
 
