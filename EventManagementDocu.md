@@ -115,3 +115,8 @@ The Event Management System will enable event organizers to create and manage mu
 | AGENDA_NAME          | Name of the agenda                                | String        | 255        | Lunch               |
 | AGENDA_TIME_START    | Starting Date and Time stamp of the agenda        | Date          |            | 09-24-2002, 13:30   |
 | AGENDA_TIME_END      | Ending Date and Time stamp of the agenda          | Date          |            | 09-24-2002, 14:30   |
+
+### ERD
+
+![EMS drawio (1)](https://github.com/user-attachments/assets/d86e354d-00f3-4cf4-8a39-f169b6b812db)
+
