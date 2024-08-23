@@ -2,9 +2,9 @@
 
 ## B. Project Features and Characteristics
 The proposed project Event management system consists of the following features:
-1. Payment methods for client and users.
+1. Event credentials including the staff, attendees or the participants of the events.The use of event credentials can identify who are the attendees by using of badges, wristbands or any materials.
 2.  Agenda scheduling for locations, event planning, update schedule and customization.
-3.  User registration and login.
+3.  User module for users credential.
 4.  VRM for arrangement of bookings.
 
 ## C. Project Scope
