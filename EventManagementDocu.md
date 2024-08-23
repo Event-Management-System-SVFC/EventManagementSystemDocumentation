@@ -79,4 +79,39 @@ The Event Management System will enable event organizers to create and manage mu
 
 ### Table 2: ATTENDEES
 
+| FIELD NAME | DESCRIPTION | DATA TYPE | LENGTH | SAMPLE |
+| ------ | ------ | ------ | ------ | ------ |
+| ATTENDEE_ID     | Unique identification of attendee                      | String        | 255        | Qwinesq12             |
+| INVITATION_ID   | Unique identification of invitation                    | String        | 255        | Qwiwwenesq12          |
+| TIME_IN         | Date and time of the arrival of the attendee at the venue | Date          |            | 09-24-2002, 12:20      |
+| TIME_OUT        | Date and time of the exit of the attendee at the venue    | Date          |            | 09-24-2002, 12:20      |
 
+### Table 3: INVITED
+
+| FIELD NAME | DESCRIPTION | DATA TYPE | LENGTH | SAMPLE |
+| ------ | ------ | ------ | ------ | ------ |
+| INVITATION_ID     | Unique identification of invitation         | String        | 255        | Qweopqwe23q         |
+| INVITED_NAME      | Name of the invited person                  | String        | 255        | Juan Tamad          |
+| EVENT_ID          | Unique identification of event              | String        | 255        | Qweopwwqwe23q       |
+| ATTENDEE_TYPE     | Type or Role of the attendee                | String        | 255        | Host, Singer, DJ    |
+| SEAT_NUMBER       | Seat number of the invited person in the event | Int           | 55         | 1                   |
+
+### Table 4: USER
+
+| FIELD NAME | DESCRIPTION | DATA TYPE | LENGTH | SAMPLE |
+| ------ | ------ | ------ | ------ | ------ |
+| USER_ID            | Unique identification of user     | String        | 255        | Wemnkqlme21            |
+| USER_GMAIL         | Gmail of the user                 | String        | 255        | juantamad@gmail.com    |
+| USER_PASSWORD      | Hashed password of the user       | String        | 255        | qweasdqweqwe           |
+| USER_FIRSTNAME     | Firstname of the user             | String        | 255        | Juan                   |
+| USER_SURNAME       | Surname of the user               | String        | 255        | Tamad                  |
+
+### Table 5: AGENDA
+
+| FIELD NAME | DESCRIPTION | DATA TYPE | LENGTH | SAMPLE |
+| ------ | ------ | ------ | ------ | ------ |
+| AGENDA_ID            | Unique identification of the agenda               | String        | 255        | Webqjwke120         |
+| EVENT_ID             | Unique identification of the event                | String        | 255        | 11Webqjwke120       |
+| AGENDA_NAME          | Name of the agenda                                | String        | 255        | Lunch               |
+| AGENDA_TIME_START    | Starting Date and Time stamp of the agenda        | Date          |            | 09-24-2002, 13:30   |
+| AGENDA_TIME_END      | Ending Date and Time stamp of the agenda          | Date          |            | 09-24-2002, 14:30   |
