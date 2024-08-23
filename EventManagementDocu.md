@@ -19,6 +19,8 @@ The Event Management System will enable event organizers to create and manage mu
 
 ## E. Functional Requirements
 
+#User Requirements
+
 | No. | Users      | System Features                                          | Requirement                                                                                                                                                |
 |-----|------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1   | Organizer  | A. User Module - User Details                 | 2. The system must allow the Organizer to view user details:                                                                                                          |
@@ -47,5 +49,10 @@ The Event Management System will enable event organizers to create and manage mu
 |     |            |                                                          |    a. Event Planner                                                                                                                                        |
 |     |            |                                                          |    b. Event Staff                                                                                                                                          |
 |     |            |                                                          |    c. Event Attendees                                                                                                                                      |
+
+
+#Use Case
+
+
 
 ## F. Database Architecture
