@@ -18,7 +18,7 @@ managing an event straightforward, allowing users to focus more on their events 
 
 ## C. Project Objectives:
 
-To develop a Event management system that will help manage the ______ with the following features:
+To develop an Event management system that will help manage different events with the following features:
 1. Through EMS the user can save more time planning events and it more accesible by doing it digitalize.            
 2. Including the payment methods that can accept online payments in our EMS features 
 3. Agenda scheduling will be the top priority of our key features that handle locations, time , update schedule and create personalized schedule based on their wants.
