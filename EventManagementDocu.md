@@ -1,14 +1,31 @@
 ## A. Introduction
 
+Event has many interpretations depending on how and what is your situation. It can be your birthday celebration, an important meeting, life changing events, your line of work, and many other events that you organize, or you attend. According to Saluja (2023), planning an event brings problems like last-minute changes, time management issues, technical difficulties, guest list management, registration issues, etc. Event management system or EMS is the solution for these problems.
+
+
+A software program that assists in event planning, promotion, and execution is called an Event Management System (EMS). Its goal is to make event planning and administration easier by tracking event data, automating activities, and offering marketing and collaboration tools (Mohan, 2023). The system aims to provide centralized managing of details, important event related notifications, user management module, event management module, agenda management, create invitation links, guest listing, staff listing, and manage event status If it is cancelled, ended or currently ongoing. 
+
+
+
+References:
+
+https://www.eventible.com/learning/event-planning-problems-and-solutions/
+
+
+https://www.eventzilla.net/blog/event-resources/event-management-system-everything-you-need-to-know/
+ 
+
+
 ## B. Project Features and Characteristics
 The proposed project Event management system consists of the following features:
-1. Event credentials including the staff, attendees or the participants of the events.The use of event credentials can identify who are the attendees by using of badges, wristbands or any materials.
-2.  Agenda scheduling for locations, event planning, update schedule and customization.
-3.  User module for users credential.
+1.	Event Management Module: This is where that main feature of the system will be found. Organizers can create events, delete events, organize event agendas, guest listing, staff listing, centralized event details manager, manage attendees, and organizer’s personal preferences.
+2.	User Management Module: Organizers are required to create an account using verified email to make an event to save all the event logs and important details for future references.
+3.	Create Invitation Links: Organizers can choose to send an invitation link to only be invited people or to send it publicly so people can register and list their names. Invited people can view event details permitted by the organizer.
+
 
 ## C. Project Scope
 
-The Event Management System (EMS) is proposed to help organizers and user efficiently manage and participate in events. The system will cover event details such as scheduling and invitations. It aims to support organizers by providing accurate data, simplifying event planning, and improving the overall attendee experience through digitalization. The EMS will be available to event organizers, staff, and user to ensure smooth communication and coordination during events. The Event Management System will enable event organizers to create and manage multiple events, book venues, handle seating arrangements, and allocate resources efficiently.
+The Event Management System (EMS) is proposed to help organizers and user efficiently manage and participate in events. The system will cover event details such as scheduling and invitations. It aims to support organizers by providing accurate data, simplifying event planning, and improving the overall attendee experience through digitalization. The EMS will be available to event organizers, staff, and guests to ensure smooth flow and coordination during events. The Event Management System will enable event organizers to create and manage multiple events, handle seating arrangements, and allocate resources efficiently.
 
 ## D. Work breakdown Structure
 ![image](https://github.com/user-attachments/assets/7d0ef25f-4a52-4091-af3f-eb1c3a973633)
