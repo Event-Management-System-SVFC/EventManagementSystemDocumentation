@@ -1,3 +1,5 @@
+# PlanIt: An Event Managemnt System
+
 ## A. Introduction
 
 Event has many interpretations depending on how and what is your situation. It can be your birthday celebration, an important meeting, life changing events, your line of work, and many other events that you organize, or you attend. According to Saluja (2023), planning an event brings problems like last-minute changes, time management issues, technical difficulties, guest list management, registration issues, etc. Event management system or EMS is the solution for these problems.
@@ -25,7 +27,7 @@ The proposed project Event management system consists of the following features:
 
 ## C. Project Scope
 
-The Event Management System (EMS) is proposed to help organizers and user efficiently manage and participate in events. The system will cover event details such as scheduling and invitations. It aims to support organizers by providing accurate data, simplifying event planning, and improving the overall attendee experience through digitalization. The EMS will be available to event organizers, staff, and guests to ensure smooth flow and coordination during events. The Event Management System will enable event organizers to create and manage multiple events, handle seating arrangements, and allocate resources efficiently.
+PlanIt an Event Management System is proposed to help organizers and guests efficiently manage and participate in events. The system will cover event details such as scheduling and invitations. It aims to support organizers by providing accurate data, simplifying event planning, and improving the overall attendee experience through digitalization. The EMS will be available to event organizers, staff, and guests to ensure smooth flow and coordination during events. The Event Management System will enable event organizers to create and manage multiple events, handle seating arrangements, and allocate resources efficiently.
 
 ## D. Work breakdown Structure
 ![image](https://github.com/user-attachments/assets/7d0ef25f-4a52-4091-af3f-eb1c3a973633)
