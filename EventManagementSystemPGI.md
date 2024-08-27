@@ -5,9 +5,7 @@ Group Name: EMS team
 Project Title: Event Management System
 
 ## A. Problem Statement:
-Organizing events has never been easy, especially when hiring an event planner is expensive. Many people lack experience in handling events, and managing both the internal and external aspects of an event can be time-consuming. To address this issue, our team
-is developing an event management system designed to simplify event organization and management. Our system includes features that make
-managing an event straightforward, allowing users to focus more on their events rather than stressing over the planning process.
+        Organizing events has never been easy, especially when hiring an event planner is expensive. Many people lack experience in handling events, and managing both the internal and external aspects of an event can be time-consuming. To address this issue, our team is developing an event management system designed to simplify event organization and management. Our system includes features that make managing an event straightforward, allowing users to focus more on their events rather than stressing over the planning process.
 
 ## B. Project Description:
         The Event Management System is a software solution designed to help organize and manage events more efficiently, 
@@ -20,12 +18,9 @@ managing an event straightforward, allowing users to focus more on their events 
 
 To develop an Event management system that will help manage different events with the following features:
 1. Through EMS the user can save more time planning events and it more accesible by doing it digitalize.            
-2. Including the payment methods that can accept online payments in our EMS features 
-3. Agenda scheduling will be the top priority of our key features that handle locations, time , update schedule and create personalized schedule based on their wants.
-4. Registration and login form to create and manage multiple events.
-5. Venue and resource management that can check the venue booking for different events including the seating arrangement and staff allocation. 
-..
-
+2. Agenda scheduling will be the top priority of our key features that handle locations, time , update schedule and create personalized schedule based on their wants.
+3. Registration and login form to create and manage multiple events.
+4. Venue and resource management that can check the venue booking for different events including the seating arrangement and staff allocation. 
 
 ## D. Business Benefits:
 1.    Increased Accessibility through Digitalization
