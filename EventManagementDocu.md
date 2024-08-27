@@ -112,15 +112,15 @@ PlanIt an Event Management System is proposed to help organizers and guests effi
 | ATTENDEE_TYPE     | Type or Role of the attendee                | String        | 255        | Host, Singer, DJ    |
 | SEAT_NUMBER       | Seat number of the invited person in the event | Int           | 55         | 1                   |
 
-### Table 4: USER
+### Table 4: ORGANIZER
 
 | FIELD NAME | DESCRIPTION | DATA TYPE | LENGTH | SAMPLE |
 | ------ | ------ | ------ | ------ | ------ |
-| USER_ID            | Unique identification of user     | String        | 255        | Wemnkqlme21            |
-| USER_GMAIL         | Gmail of the user                 | String        | 255        | juantamad@gmail.com    |
-| USER_PASSWORD      | Hashed password of the user       | String        | 255        | qweasdqweqwe           |
-| USER_FIRSTNAME     | Firstname of the user             | String        | 255        | Juan                   |
-| USER_SURNAME       | Surname of the user               | String        | 255        | Tamad                  |
+| ORGANIZER_ID            | Unique identification of organizer     | String        | 255        | Wemnkqlme21            |
+| ORGANIZER_GMAIL         | Gmail of the organizer                 | String        | 255        | juantamad@gmail.com    |
+| ORGANIZER_PASSWORD      | Hashed password of the organizer       | String        | 255        | qweasdqweqwe           |
+| ORGANIZER_FIRSTNAME     | Firstname of the organizer             | String        | 255        | Juan                   |
+| ORGANIZER_SURNAME       | Surname of the organizer               | String        | 255        | Tamad                  |
 
 ### Table 5: AGENDA
 
