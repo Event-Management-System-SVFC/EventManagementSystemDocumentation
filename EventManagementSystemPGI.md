@@ -29,11 +29,9 @@ To develop an Event management system that will help manage different events wit
 
 ## D. Business Benefits:
 1.    Increased Accessibility through Digitalization
-2.    Time Savings in Event Planning
-3.    Online Payment Integration
-4.    Real-Time Communication and Updates
-5.    Improved Attendee Experience
-..
+2.    Time Saving in Event Planning
+3.    Real-Time Updates
+4.    Improved Attendee Experience
 
 ## E. Project Deliverables:
     1. Requirements
