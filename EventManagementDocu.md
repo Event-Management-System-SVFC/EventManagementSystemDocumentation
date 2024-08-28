@@ -71,9 +71,7 @@ PlanIt an Event Management System is proposed to help organizers and guests effi
 	
 ### Use Case
 
-![image](https://github.com/user-attachments/assets/f8372eb1-74ae-48ee-b00e-bc295e33ffb4)
-
-
+![image](https://github.com/user-attachments/assets/0102e9b0-a5db-49c5-8e7d-0144d438add0)
 
 
 ## F. Database Architecture
