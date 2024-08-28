@@ -37,39 +37,54 @@ PlanIt an Event Management System is proposed to help organizers and guests effi
 
 ### User Requirements
 
-| No. | Users      | System Features                                          | Requirement                                                                                                                                                |
-|-----|------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1   | Organizer  | A. User Module - User Details                 | 2. The system must allow the Organizer to view user details:                                                                                                          |
-|     |            |                                                          |    a. User Name                                                                                                                                            |
-|     |            |                                                          |    b. User Email                                                                                                                                           |
-|     |            |                                                          |    c. Record of the Schedule                                                                                                                               |
-|     |            |                                                          |    d. Record of the Event Credentials                                                                                                                      |
-| 2   | Users      | A. User Module - Register                     | 1. The system must allow the users to log in to the web by entering:                                                                                                  |
-|     |            |                                                          |    a. First Name                                                                                                                                           |
-|     |            |                                                          |    b. Last Name                                                                                                                                            |
-|     |            |                                                          |    c. Email address                                                                                                                                        |
-|     |            |                                                          |    d. Password                                                                                                                                             |
-|     |            |                                                          |    e. Confirm Password                                                                                                                                     |
-|     |            | B. User Module - Login                        | 2. The system must allow the users to log in to the web by entering:                                                                                                  |
-|     |            |                                                          |    a. Email address                                                                                                                                        |
-|     |            |                                                          |    b. Password                                                                                                                                             |
-|     |            | C. Agenda Scheduling                                     | 3. The system must allow the users to create their personalized schedule by entering:                                                                      |
-|     |            |                                                          |    a. Event Title                                                                                                                                          |
-|     |            |                                                          |    b. Location                                                                                                                                             |
-|     |            |                                                          |    c. Time Start                                                                                                                                           |
-|     |            |                                                          |    d. Time End                                                                                                                                             |
-|     |            |                                                          |    e. Event Menu (Optional)                                                                                                                                |
-|     |            |                                                          |    f. Event Description                                                                                                                                    |
-|     |            |                                                          |    g. Event Image                                                                                                                                          |
-|     |            | D. Event Credentials                        | 4. The system must allow the users to enter the name of:                                                                                                                |
-|     |            |                                                          |    a. Event Planner                                                                                                                                        |
-|     |            |                                                          |    b. Event Staff                                                                                                                                          |
-|     |            |                                                          |    c. Event Attendees                                                                                                                                      |
+
+| No. | Users | System Features | Requirement |
+|-----|-----|-----|-----|
+| 1 | Organizer | A. User Management Module | 1. The system must allow organizers to create an account by entering: |
+|  |  |  | a. google mail |
+|  |  |  | b. firstname |
+|  |  |  | c. surname |
+|  |  |  | d. password |
+|  |  | B. Event Management Module | 1. The system must allow organizers to create an event by entering |
+|  |  |  | a. Event title |
+|  |  |  | b. Event Description |
+|  |  |  | c. Event additional information |
+|  |  |  | d. Event address |
+|  |  |  | e. Event image |
+|  |  |  | f. Event time start |
+|  |  |  | g. Event time end |
+|  |  |  | 2. The system must allow organizers to create invitation by entering: |
+|  |  |  | a. Invitee name |
+|  |  |  | b. Invitee type |
+|  |  |  | c. Seat number |
+|  |  |  | 3. The system must allow organizers to list attendees by entering: |
+|  |  |  | a. Invitation id |
+|  |  |  | b. Time in |
+|  |  |  | c. Time out |
+|  |  |  | 4. The system must allow organizers to create agenda for the event by entering: |
+|  |  |  | a. Agenda name |
+|  |  |  | b. Agenda time start |
+|  |  |  | c. Agenda time end |
+|  |  | C. Invitation links | 1. The system must allow organizers to create invitation links for guests. |
+| 2 | Guest | A. Invitation links | 1. The system must allow invitees or guests to view the event details using the invitation links provided by the organizer. |
+
+
+
+			
+
+
+
+
+
+
+
+
 
 
 ### Use Case
 
-![USE CASE](https://github.com/user-attachments/assets/c98428c4-a6bc-4fab-9f78-8c69eafd2b28)
+![image](https://github.com/user-attachments/assets/ea8fb688-3669-4ae4-8008-060e467a6761)
+
 
 
 ## F. Database Architecture
