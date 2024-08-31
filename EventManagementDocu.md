@@ -8,21 +8,23 @@ Event has many interpretations depending on how and what is your situation. It c
 A software program that assists in event planning, promotion, and execution is called an Event Management System (EMS). Its goal is to make event planning and administration easier by tracking event data, automating activities, and offering marketing and collaboration tools (Mohan, 2023). The system aims to provide centralized managing of details, important event related notifications, user management module, event management module, agenda management, create invitation links, guest listing, staff listing, and manage event status If it is cancelled, ended or currently ongoing. 
 
 
-
-References:
-
-https://www.eventible.com/learning/event-planning-problems-and-solutions/
-
-
-https://www.eventzilla.net/blog/event-resources/event-management-system-everything-you-need-to-know/
- 
-
-
 ## B. Project Features and Characteristics
 The proposed project Event management system consists of the following features:
 1.	Event Management Module: This is where that main feature of the system will be found. Organizers can create events, delete events, organize event agendas, guest listing, staff listing, centralized event details manager, manage attendees, and organizer’s personal preferences.
 2.	User Management Module: Organizers are required to create an account using verified email to make an event to save all the event logs and important details for future references.
 3.	Create Invitation Links: Organizers can choose to send an invitation link to only be invited people or to send it publicly so people can register and list their names. Invited people can view event details permitted by the organizer.
+4.	Create account
+5.	Create and manage events
+6.	Create Agendas
+7.	Share event details through invitation links
+8.	Event related notifications and reminders
+9.	Assign seating arrangements
+10.	Guest and Attendee listings
+11.	Real-time event status sharing
+12.	Utilizing google maps for navigation
+
+![image](https://github.com/user-attachments/assets/f33afa17-af85-4874-9a39-ba37ff02e065)
+
 
 
 ## C. Project Scope
@@ -137,4 +139,14 @@ PlanIt an Event Management System is proposed to help organizers and guests effi
 ### ERD
 
 ![EMS drawio (1)](https://github.com/user-attachments/assets/d86e354d-00f3-4cf4-8a39-f169b6b812db)
+
+
+
+
+References:
+
+https://www.eventible.com/learning/event-planning-problems-and-solutions/
+
+
+https://www.eventzilla.net/blog/event-resources/event-management-system-everything-you-need-to-know/
 
