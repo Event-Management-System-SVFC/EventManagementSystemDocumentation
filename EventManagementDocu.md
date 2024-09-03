@@ -23,7 +23,6 @@ The proposed project Event management system consists of the following features:
 11.	Real-time event status sharing
 12.	Utilizing google maps for navigation
 
-![image](https://github.com/user-attachments/assets/f33afa17-af85-4874-9a39-ba37ff02e065)
 
 
 
@@ -91,9 +90,7 @@ PlanIt an Event Management System is proposed to help organizers and guests effi
 | EVENT_ADDRESS                     | Address where the event will be held (plain text or Google Maps link) | String        | 255        | Example City, Sampaguita St., or https://www.google.com/maps |
 | EVENT_PLANNER                     | ID of the user who planned this event                              | String        | 255        | Eqlkeqwlk123                                       |
 | EVENT_IMAGE                       | Link of the image of the event                                     | String        | 255        | https://firebase.com/image.png                     |
-| IS_EVENT_CANCELLED                | If the event is cancelled by the user                              | Boolean       |            | false                                              |
-| IS_EVENT_ENDED                    | If the event is already ended                                      | Boolean       |            | true                                               |
-| IS_EVENT_ONGOING                  | If the event is currently happening                                | Boolean       |            | false                                              |
+| EVENT_STATUS		            | Status of the event if ended, cancelled, or ongoing                          | Boolean       |            | false                                              |
 | EVENT_TIME_START                  | Datestamp when the event will start                                | Date          |            | 09-24-2002, 12:20                                  |
 | EVENT_TIME_END                    | Datestamp when the event will end                                  | Date          |            | 09-25-2002, 12:20                                  |
 
