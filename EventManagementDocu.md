@@ -31,7 +31,8 @@ The proposed project Event management system consists of the following features:
 PlanIt an Event Management System is proposed to help organizers and guests efficiently manage and participate in events. The system will cover event details such as scheduling and invitations. It aims to support organizers by providing accurate data, simplifying event planning, and improving the overall attendee experience through digitalization. The EMS will be available to event organizers, staff, and guests to ensure smooth flow and coordination during events. The Event Management System will enable event organizers to create and manage multiple events, handle seating arrangements, and allocate resources efficiently.
 
 ## D. Work breakdown Structure
-![image](https://github.com/user-attachments/assets/1d7e13db-c9ff-4ab2-93e5-08980cdb733b)
+![USE CASE](https://github.com/user-attachments/assets/f8a26cc4-262a-44ce-b6b0-49e2d9b5704b)
+
 
 
 
