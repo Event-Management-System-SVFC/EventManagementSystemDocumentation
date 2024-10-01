@@ -5,7 +5,7 @@ Group Name: EMS team
 Project Title: Event Management System
 
 ## A. Problem Statement:
-Organizing events has never been easy, especially when hiring an event planner is expensive. Many people lack experience in handling events, and managing both the internal and external aspects of an event can be  time-consuming. To address this issue, our team is developing an event management system designed to simplify event organization and management. Our system includes features that make managing an event straightforward, allowing users to focus more on their events rather than stressing over the planning process.
+Organizing events has never been easy, especially when hiring an event planner is expensive. Many people lack experience in handling events, and managing both the internal and external aspects of an event can be  time-consuming. To address this issue, our team is developing an event management system designed to simplify event organization and management. Our system includes features that make managing an event straightforward, allowing users to focus more on their events rather than stressing over the planning process. According to Hanif (2017) the common challenges event organizers faces when handling an event are poor data sharing, not enough attendees, and messy registration. Data sharing and organizing information digitally is the solution our system offers for these problems.
 
 ## B. Project Description:
 The Event Management System is a software solution designed to help organize and manage events more efficiently, 
