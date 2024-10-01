@@ -73,7 +73,9 @@ PlanIt an Event Management System is proposed to help organizers and guests effi
 	
 ### Use Case
 
-![USE CASE](https://github.com/user-attachments/assets/1c6a40e7-8ff0-40af-bbbb-6e6d2d115fa5)
+
+![image](https://github.com/user-attachments/assets/2c2f53b4-5617-43ed-9fb2-798c4961ad51)
+
 
 
 
@@ -147,6 +149,7 @@ PlanIt an Event Management System is proposed to help organizers and guests effi
 ### ERD
 
 ![USE CASE](https://github.com/user-attachments/assets/f8a26cc4-262a-44ce-b6b0-49e2d9b5704b)
+
 
 
 
