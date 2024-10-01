@@ -62,8 +62,6 @@ PlanIt an Event Management System is proposed to help organizers and guests effi
 |  |  |  | c. Seat number |
 |  |  |  | 3. The system must allow organizers to list attendees by entering: |
 |  |  |  | a. Invitation id |
-|  |  |  | b. Time in |
-|  |  |  | c. Time out |
 |  |  |  | 4. The system must allow organizers to create agenda for the event by entering: |
 |  |  |  | a. Agenda name |
 |  |  |  | b. Agenda time start |
