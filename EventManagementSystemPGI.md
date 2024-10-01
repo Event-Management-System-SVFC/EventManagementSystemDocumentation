@@ -5,7 +5,10 @@ Group Name: EMS team
 Project Title: Event Management System
 
 ## A. Problem Statement:
-Organizing events has never been easy, especially when hiring an event planner is expensive. Many people lack experience in handling events, and managing both the internal and external aspects of an event can be  time-consuming. To address this issue, our team is developing an event management system designed to simplify event organization and management. Our system includes features that make managing an event straightforward, allowing users to focus more on their events rather than stressing over the planning process. According to Hanif (2017) the common challenges event organizers faces when handling an event are poor data sharing, not enough attendees, and messy registration. Data sharing and organizing information digitally is the solution our system offers for these problems.
+
+As stated by Capuno et al. (2021), an unexpected plan can cause an inconvenience for some people.when it comes to conflicts of scheduling. This study implies the system integrates various technologies to streamline the reservation process and ensure timely communication. By creating an online event reservation, the process will be easier. for users to book an event. Similarly, organizing events has never been easy, especially when hiring an event planner is expensive. Many people lack experience in handling events, and managing both the internal and external aspects of an event can be  time-consuming. To address this issue, our team is developing an event management system designed to simplify event organization and management. Our system includes features that make managing an event straightforward, allowing users to focus more on their events rather than stressing over the planning process. According to Hanif (2017) the common challenges event organizers faces when handling an event are poor data sharing, not enough attendees, and messy registration. Data sharing and organizing information digitally is the solution our system offers for these problems.
+
+
 
 ## B. Project Description:
 The Event Management System is a software solution designed to help organize and manage events more efficiently, 
@@ -62,6 +65,7 @@ To develop an Event management system that will help manage different events wit
 
 ### Reference
 https://www.glueup.com/blog/challenges-event-organizers-face
+https://www.researchgate.net/publication/360174742_iReserve_An_Online_Event_Reservation_for_Lipa_City_Cultural_with_SMS_Notification
 
 
 ### Prepared by:
