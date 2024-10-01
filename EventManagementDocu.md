@@ -70,6 +70,13 @@ PlanIt an Event Management System is proposed to help organizers and guests effi
 |  |  |  | c. Agenda time end |
 |  |  | C. Invitation links | 1. The system must allow organizers to create invitation links for guests. |
 | 2 | Guest | A. Invitation links | 1. The system must allow invitees or guests to view the event details using the invitation links provided by the organizer. |
+| 3 | Admin | A. Event system list | 1. The system must allow admin to check all existing events |
+|  |  | B. Organizer system list | 1. The system must allow admin to check all organizers account |
+
+
+
+| No. | Users | System Features | Requirement |
+
 	
 ### Use Case
 
