@@ -10,9 +10,9 @@ A software program that assists in event planning, promotion, and execution is c
 
 ## B. Project Features and Characteristics
 The proposed project Event management system consists of the following features:
-1.	Event Management Module: This is where that main feature of the system will be found. Organizers can create events, delete events, organize event agendas, guest listing, staff listing, centralized event details manager, manage attendees, and organizer’s personal preferences.
+1.	Event Management Module: This is where that main feature of the system will be found. Organizers can create events, delete events, organize event agendas, guest listing, centralized event details manager, manage attendees, and organizer’s personal preferences.
 2.	User Management Module: Organizers are required to create an account using verified email to make an event to save all the event logs and important details for future references.
-3.	Create Invitation Links: Organizers can choose to send an invitation link to only be invited people or to send it publicly so people can register and list their names. Invited people can view event details permitted by the organizer.
+3.	Create Invitation Links: Organizers can choose to send an invitation link people can register and list their names. Invited people can view event details permitted by the organizer.
 4.	Create account
 5.	Create and manage events
 6.	Create Agendas
