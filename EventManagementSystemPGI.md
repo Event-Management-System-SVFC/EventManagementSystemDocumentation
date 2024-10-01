@@ -60,6 +60,9 @@ To develop an Event management system that will help manage different events wit
 ## G. Estimated Project Duration:
     4 - 6 Months
 
+### Reference
+https://www.glueup.com/blog/challenges-event-organizers-face
+
 
 ### Prepared by:
     Bacabis, Mike Kenny Jay
