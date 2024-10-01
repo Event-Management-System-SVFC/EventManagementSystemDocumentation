@@ -135,6 +135,15 @@ PlanIt an Event Management System is proposed to help organizers and guests effi
 | AGENDA_TIME_START    | Starting Date and Time stamp of the agenda        | Date          |            | 09-24-2002, 13:30   |
 | AGENDA_TIME_END      | Ending Date and Time stamp of the agenda          | Date          |            | 09-24-2002, 14:30   |
 
+### Table 6: ADMIN
+
+| FIELD NAME | DESCRIPTION | DATA TYPE | LENGTH | SAMPLE |
+| ------ | ------ | ------ | ------ | ------ |
+| ADMIN_ID            | Unique identification of the admin account               | String        | 255        | Webqjwke120         |
+| ADMIN_USERNAME             | Unique identification of the admin username                | String        | 255        | 11Webqjwke120       |
+| ADMIN_EMAIL        | email of the admin                                | String        | 255        | admin@gmail.com               |
+| ADMIN_PASSWORD   | admin password        | String          |            | qwemqweqadmin121 |
+
 ### ERD
 
 ![USE CASE](https://github.com/user-attachments/assets/f8a26cc4-262a-44ce-b6b0-49e2d9b5704b)
