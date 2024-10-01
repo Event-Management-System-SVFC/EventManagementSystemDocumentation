@@ -153,10 +153,7 @@ PlanIt an Event Management System is proposed to help organizers and guests effi
 
 ### ERD
 
-![USE CASE](https://github.com/user-attachments/assets/f8a26cc4-262a-44ce-b6b0-49e2d9b5704b)
-
-
-
+![erd-ems](https://github.com/user-attachments/assets/0c244d83-790e-4d89-b700-9942bc84089a)
 
 
 References:
