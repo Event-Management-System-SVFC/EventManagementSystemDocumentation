@@ -19,8 +19,8 @@ Organizing events has never been easy, especially when hiring an event planner i
 To develop an Event management system that will help manage different events with the following features:
 1. Through EMS the user can save more time planning events and it more accesible by doing it digitalize.            
 2. Agenda scheduling will be the top priority of our key features that handle locations, time , update schedule and create personalized schedule based on their wants.
-3. Registration and login form to create and manage multiple events.
-4. Venue and resource management that can check the venue booking for different events including the seating arrangement and staff allocation. 
+3. Account creation for organizers to create and manage multiple events.
+4. Venue and resource management that can check the venue booking for different events including the seating arrangement
 
 ## D. Business Benefits:
 1.    Increased Accessibility through Digitalization
