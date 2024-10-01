@@ -17,11 +17,9 @@ The proposed project Event management system consists of the following features:
 5.	Create and manage events
 6.	Create Agendas
 7.	Share event details through invitation links
-8.	Event related notifications and reminders
 9.	Assign seating arrangements
 10.	Guest and Attendee listings
 11.	Real-time event status sharing
-12.	Utilizing google maps for navigation
 
 
 
