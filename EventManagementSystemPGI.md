@@ -19,43 +19,33 @@ accessibility, and the overall attendee experience.
 
 ## C. Project Objectives:
 
-To develop an Event management system that will help manage different events with the following features:
-1. Through EMS the user can save more time planning events and it more accesible by doing it digitalize.            
-2. Agenda scheduling will be the top priority of our key features that handle locations, time , update schedule and create personalized schedule based on their wants.
-3. Account creation for organizers to create and manage multiple events.
-4. Venue and resource management that can check the venue booking for different events including the seating arrangement
+| Feature                                      | Description                                                                                       |
+|----------------------------------------------|---------------------------------------------------------------------------------------------------|
+| Time-saving and accessibility                | Through EMS, users can save more time planning events and make it more accessible by digitalizing. |
+| Agenda scheduling                            | Agenda scheduling is a key feature that handles locations, time, and updates, creating personalized schedules. |
+| Account creation for organizers              | Organizers can create and manage multiple events.                                                  |
+| Venue and resource management                | Venue and resource management can check venue bookings for different events, including seating arrangements. |
+
 
 ## D. Business Benefits:
-1.    Increased Accessibility through Digitalization
-2.    Time Saving in Event Planning
-3.    Real-Time Updates
-4.    Improved Attendee Experience
+
+| Business Benefit                           | 
+|--------------------------------------------|
+| Increased Accessibility through Digitalization |
+| Time Saving in Event Planning              |
+| Real-Time Updates                          |
+| Improved Attendee Experience               |
+
 
 ## E. Project Deliverables:
-    1. Requirements
-      • Research and analysis
-      • Data Gathering
-      • User Stories
-      • User Requirements
-      • Use Case
-      • Data Dictionary
-      • Entity Relationship Diagram
-      • Dataflow Diagram
-    
-    2. Design
-      • Low Fidelity
-      • High Fidelity
-      • Prototype
-    
-    4. Development
-       
-    
-    6. Test
-      • Functional
-      • Non-Functional
-    
-    8. Deploy
-      • User Acceptance Testing
+
+| No. | Phase           | Tasks                                                                 |
+|-----|-----------------|----------------------------------------------------------------------|
+| 1   | Requirements     | - Research and analysis <br> - Data Gathering <br> - User Stories <br> - User Requirements <br> - Use Case <br> - Data Dictionary <br> - Entity Relationship Diagram <br> - Dataflow Diagram |
+| 2   | Design           | - Low Fidelity <br> - High Fidelity <br> - Prototype                |
+| 3   | Development      | - Development                                                       |
+| 4   | Test             | - Functional <br> - Non-Functional                                  |
+| 5   | Deploy           | - User Acceptance Testing                                           |
 
 ## F. Benchmarking
   1. https://www.planningpod.com/
