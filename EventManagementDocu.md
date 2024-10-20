@@ -99,7 +99,9 @@ PlanIt an Event Management System is proposed to help organizers and guests effi
 | EVENT_IMAGE                       | Link of the image of the event                                     | String        | 255        | https://firebase.com/image.png                     |
 | EVENT_STATUS		            | Status of the event if ended, cancelled, or ongoing                          | Boolean       |            | false                                              |
 | EVENT_TIME_START                  | Datestamp when the event will start                                | Date          |            | 09-24-2002, 12:20                                  |
-| EVENT_TIME_END                    | Datestamp when the event will end                                  | Date          |            | 09-25-2002, 12:20                                  |
+| EVENT_TIME_END                    | Datestamp when the event created | Date          |            | 09-25-2002, 12:20                                  |
+| CREATED_AT | Datestamp when the event created                                  | Date          |            | 09-25-2002, 12:20                                  |
+| UPDATED_AT                    | Datestamp when the event updated | Date          |            | 09-25-2002, 12:20                                  |
 
 ### Table 2: ATTENDEES
 
@@ -107,8 +109,8 @@ PlanIt an Event Management System is proposed to help organizers and guests effi
 | ------ | ------ | ------ | ------ | ------ |
 | ATTENDEE_ID     | Unique identification of attendee                      | String        | 255        | Qwinesq12             |
 | INVITATION_ID   | Unique identification of invitation                    | String        | 255        | Qwiwwenesq12          |
-| TIME_IN         | Date and time of the arrival of the attendee at the venue | Date          |            | 09-24-2002, 12:20      |
-| TIME_OUT        | Date and time of the exit of the attendee at the venue    | Date          |            | 09-24-2002, 12:20      |
+| CREATED_AT | Datestamp when the attendee created | Date          |            | 09-25-2002, 12:20                                  |
+| UPDATED_AT                    | Datestamp when the attendee updated | Date          |            | 09-25-2002, 12:20                                  |
 
 ### Table 3: INVITED
 
@@ -119,16 +121,20 @@ PlanIt an Event Management System is proposed to help organizers and guests effi
 | EVENT_ID          | Unique identification of event              | String        | 255        | Qweopwwqwe23q       |
 | ATTENDEE_TYPE     | Type or Role of the attendee                | String        | 255        | Host, Singer, DJ    |
 | SEAT_NUMBER       | Seat number of the invited person in the event | Int           | 55         | 1                   |
+| CREATED_AT | Datestamp when the invited created                                  | Date          |            | 09-25-2002, 12:20                                  |
+| UPDATED_AT                    | Datestamp when the attendee updated | Date          |            | 09-25-2002, 12:20                                  |
 
-### Table 4: ORGANIZER
+### Table 4: USER
 
 | FIELD NAME | DESCRIPTION | DATA TYPE | LENGTH | SAMPLE |
 | ------ | ------ | ------ | ------ | ------ |
-| ORGANIZER_ID            | Unique identification of organizer     | String        | 255        | Wemnkqlme21            |
-| ORGANIZER_GMAIL         | Gmail of the organizer                 | String        | 255        | juantamad@gmail.com    |
-| ORGANIZER_PASSWORD      | Hashed password of the organizer       | String        | 255        | qweasdqweqwe           |
-| ORGANIZER_FIRSTNAME     | Firstname of the organizer             | String        | 255        | Juan                   |
-| ORGANIZER_SURNAME       | Surname of the organizer               | String        | 255        | Tamad                  |
+| USER_ID            | Unique identification of organizer     | String        | 255        | Wemnkqlme21            |
+| USER_GMAIL         | Gmail of the organizer                 | String        | 255        | juantamad@gmail.com    |
+| USER_PASSWORD      | Hashed password of the organizer       | String        | 255        | qweasdqweqwe           |
+| USER_FIRSTNAME     | Firstname of the organizer             | String        | 255        | Juan                   |
+| USER_LASTNAME     | Lastname of the organizer               | String        | 255        | Tamad                  |
+| CREATED_AT | Datestamp when the user created                                  | Date          |            | 09-25-2002, 12:20                                  |
+| UPDATED_AT                    | Datestamp when the user updated | Date          |            | 09-25-2002, 12:20                                  |
 
 ### Table 5: AGENDA
 
@@ -139,6 +145,8 @@ PlanIt an Event Management System is proposed to help organizers and guests effi
 | AGENDA_NAME          | Name of the agenda                                | String        | 255        | Lunch               |
 | AGENDA_TIME_START    | Starting Date and Time stamp of the agenda        | Date          |            | 09-24-2002, 13:30   |
 | AGENDA_TIME_END      | Ending Date and Time stamp of the agenda          | Date          |            | 09-24-2002, 14:30   |
+| CREATED_AT | Datestamp when the agenda created                                  | Date          |            | 09-25-2002, 12:20                                  |
+| UPDATED_AT                    | Datestamp when the agenda updated | Date          |            | 09-25-2002, 12:20                                  |
 
 ### Table 6: ADMIN
 
@@ -148,6 +156,8 @@ PlanIt an Event Management System is proposed to help organizers and guests effi
 | ADMIN_USERNAME             | Unique identification of the admin username                | String        | 255        | 11Webqjwke120       |
 | ADMIN_EMAIL        | email of the admin                                | String        | 255        | admin@gmail.com               |
 | ADMIN_PASSWORD   | admin password        | String          |            | qwemqweqadmin121 |
+| CREATED_AT | Datestamp when the admin created                                  | Date          |            | 09-25-2002, 12:20                                  |
+| UPDATED_AT                    | Datestamp when the admin updated | Date          |            | 09-25-2002, 12:20                                  |
 
 ### ERD
 
