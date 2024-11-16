@@ -12,10 +12,10 @@ As stated by Capuno et al. (2021), an unexpected plan can cause an inconvenience
 
 ## B. Project Description:
 The Event Management System is a software solution designed to help organize and manage events more efficiently, 
-making it more accessible. It will include online payment options, agenda scheduling, and features for managing 
-locations, time, and personalized schedules. Users can create and manage multiple events through registration 
-and login forms. The system will also handle venue booking, seating arrangements, and staff allocation, improving 
-accessibility, and the overall attendee experience.
+making it more accessible. It will include agenda scheduling and features for managing locations, time, and 
+personalized schedules. Users can create and manage multiple events through registration and login forms. 
+The system will also handle venue booking, seating arrangements, and staff allocation, improving accessibility, 
+and the overall attendee experience.
 
 ## C. Project Objectives:
 
